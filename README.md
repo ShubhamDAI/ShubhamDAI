@@ -1,4 +1,5 @@
-![logo]()
+![logo](https://github.com/ShubhamDAI/ShubhamDAI/blob/main/Screenshot%202026-11-22%20171348.png)
+
 <h1 align="center">Hi 👋, I'm Shubham Kumar Mandal</h1>
 <h3 align="center">A passionate Data Analyst and Software Developer.</h3>
 
