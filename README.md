@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mandalfrombihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandalfrombihar" height="30" width="40" /></a>
-<a href="[https://www.instagram.com/codehive_with_shubham?igsh=cTBoZjBvM2o5Z3k4)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-mandal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-mandal-46204a330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-mandal" height="30" width="40" /></a>
 <a href="https://instagram.com/codehive_with_shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codehive_with_shubham" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CodeHive.shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codehive with shubham" height="30" width="40" /></a>
 </p>
