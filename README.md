@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mandalfrombihar" target="blank"><img src="https://img.shields.io/twitter/follow/mandalfrombihar?logo=twitter&style=for-the-badge" alt="mandalfrombihar" /></a> </p>
 
-- Hi, I'm Working in [Hospital Segmentation Study Through Data Aanalyst Tool](soon)
+- Hi, I'm Working On the Project [Hospital Segmentation Study Through Data Aanalyst Tool](soon)
 
 - 👨‍💻 All of my projects are available at [https://shubhamdai.github.io/Shubham-Portfolio/](https://shubhamdai.github.io/Shubham-Portfolio/)
 
